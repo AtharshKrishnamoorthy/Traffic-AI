@@ -1,6 +1,10 @@
 # Traffic AI
 
 
+## Demo Video
+
+https://github.com/user-attachments/assets/ada08116-655c-4d48-91a4-86b89e54b860
+
 ## Table of Contents
 
 - [Features](#features)
